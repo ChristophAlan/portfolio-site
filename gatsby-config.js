@@ -1,33 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Christopher Alan // Art Director`,
+    name: `Christopher Alan`,
+    siteUrl: `https://christopheralan.design`,
+    description: `Portfolio of Christopher Alan also known as Chris Herrmann an art director and designer focused on UI/UX, web and other interactive experiences.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Experienced art director, designer and problem solver with a passion for creativity, simplicity and semantics.​​​​​​​`,
+      maxWidth: 752,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/christopheralan`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/ChristopherAlan`,
       },
     ],
   },
@@ -62,5 +50,18 @@ module.exports = {
       options: {
       },
     },
+    {
+      resolve: 'gatsby-remark-video',
+      options: {
+        width: 800,
+        height: 'auto',
+        preload: 'auto',
+        muted: true,
+        autoplay: true,
+        playsinline: true,
+        controls: true,
+        loop: true
+      }
+    }
   ],
 };
