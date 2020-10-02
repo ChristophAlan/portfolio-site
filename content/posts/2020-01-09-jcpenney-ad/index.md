@@ -13,13 +13,8 @@ Pitch for a new way JCPenney can stay relevant while advertising on mobile pla
   <figcaption>Promo video showcasing the ad interactions.</figcaption>
 </div>
 
-<div className="Image__Medium">
-  <img
-    src="./images/mobile-image-grid-1.png"
-    title="Mobile Designs in a Grid Layout"
-    alt="Mobile Designs in a Grid Layout"
-  />
-</div>
+
+![Image of Screens](/images/jcp-screens_2x_684.png)
 
 ---
 

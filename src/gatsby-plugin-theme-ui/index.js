@@ -6,17 +6,18 @@ export default {
   colors: {
     ...novelaTheme.colors,
     accent: `#0F73BA`,
-    background: `#CED3E0`,
+    background: `#EBECF0`,
+    gradient: "linear-gradient(180deg, rgba(217, 219, 224, 0) 0%, #CACDD5 100%)",
     modes: {
       dark: {
         grey: "#73737D",
-        primary: "#fff",
+        primary: "#f5f5f5",
         secondary: "#fff",
         accent: "#32aafd",
-        background: "#111114",
+        background: "#1c1c1c",
         hover: "rgba(255, 255, 255, 0.07)",
         gradient:
-          "linear-gradient(180deg, #111114 0%, rgba(48, 50, 64, 0.32) 100%)",
+          "linear-gradient(180deg, #1c1c1c 0%, rgba(17, 18, 22, 100) 100%)",
         articleText: "#fff",
         track: "rgba(255, 255, 255, 0.3)",
         progress: "#fff",

@@ -8,7 +8,13 @@ excerpt: Brand page for programmable robot kits that you build and control with 
 
 Brand page for programmable robot kits that you build and control with an Arduino micro-controller. Visual navigation along the top with a breakdown of the tools & costs below the hero image to help make an informed decision.​​​​​​​
 
+## 
+![Image of make-it robotics web experience design](/images/make-it-desktop-experience.jpg)
+
 I wanted to create something interesting and eye-catching for the instructional pdf covers so we came up with an exploded isometric view for each robot.
+
+## 
+![Image of make-it robotics isometric exploded view diagram](/images/clamping-arm-robot.gif)
 
 ---
 
