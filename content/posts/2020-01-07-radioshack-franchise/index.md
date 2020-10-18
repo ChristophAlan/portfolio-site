@@ -2,7 +2,7 @@
 title: Radioshack Franchise
 author: Christopher Alan
 date: 2014-05-30
-hero: ./images/hero.jpg
+hero: ./images/radioshack-franchise-hero.jpg
 excerpt: Informational website to attract new and current RadioShack franchisees. Re-designed the existing site into a streamlined responsive one-page infinite scroller.
 ---
 

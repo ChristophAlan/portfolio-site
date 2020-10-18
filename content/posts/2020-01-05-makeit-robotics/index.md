@@ -2,7 +2,7 @@
 title: Make:it Robotics
 author: Christopher Alan
 date: 2014-01-30
-hero: ./images/hero.jpg
+hero: ./images/makeit-robotics-hero-b.jpg
 excerpt: Brand page for programmable robot kits that you build and control with an Arduino micro-controller.
 ---
 

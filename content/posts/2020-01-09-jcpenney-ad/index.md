@@ -2,7 +2,7 @@
 title: Digital Catalog iAd Concept
 author: Christopher Alan
 date: 2012-05-30
-hero: ./images/hero.jpg
+hero: ./images/jcpenney-iad-hero.jpg
 excerpt: Pitch for a new way JCPenney can stay relevant while advertising on mobile platforms.
 ---
 

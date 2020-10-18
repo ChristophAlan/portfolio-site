@@ -2,7 +2,7 @@
 title: Arizona Jeans
 author: Christopher Alan
 date: 2012-06-30
-hero: ./images/hero.jpg
+hero: ./images/arizona-jeans-hero.jpg
 excerpt: Launch campaign for the newly re-branded Arizona Jeans exclusively at JCPenney.
 ---
 

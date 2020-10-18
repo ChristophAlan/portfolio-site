@@ -2,7 +2,7 @@
 title: Card Design Language Concept
 author: Christopher Alan
 date: 2018-05-30
-hero: ./images/hero.jpg
+hero: ./images/card-design-hero.png
 excerpt: The ask was to develop a scalable visual pattern that will help better present personalized content across channels.
 ---
 

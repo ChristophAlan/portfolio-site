@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     title: `Christopher Alan // Art Director`,
@@ -17,6 +21,14 @@ module.exports = {
         name: `dribbble`,
         url: `https://dribbble.com/ChristopherAlan`,
       },
+      {
+        name: `mailto`,
+        url: `mailto:hello@christopheralan.design`,
+      },
+      {
+        name: `pdf`,
+        url: `https://drive.google.com/file/d/13FewcJyFqRBQ4LTTYR8vnXrzCv5T99JA/view`
+      },
     ],
   },
   plugins: [
@@ -26,7 +38,7 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
           // contentful: true,
@@ -51,6 +63,11 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-typescript`,
+      options: {
+      },
+    },
+    {
       resolve: 'gatsby-remark-video',
       options: {
         width: 800,
@@ -62,6 +79,14 @@ module.exports = {
         controls: true,
         loop: true
       }
-    }
+    },
+    {
+      resolve: "gatsby-plugin-web-font-loader",
+      options: {
+        typekit: {
+          id: process.env.TYPEKIT_ID,
+        },
+      },
+    },
   ],
 };

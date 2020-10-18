@@ -73,7 +73,7 @@ Some text to show that the reference links can follow later.
 
 ## Images
 
-<div className="Image__Small">
+<div className="Image__Large">
   <img
     src="./images/article-image-2.jpg"
     title="Logo Title Text 1"

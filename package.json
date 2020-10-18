@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.*",
+    "fontsource-abril-fatface": "^3.0.9",
+    "fontsource-manrope": "^3.0.5",
     "gatsby": "^2.13.41",
     "gatsby-plugin-manifest": "^2.2.4",
     "gatsby-plugin-netlify-cms": "^4.1.40",
     "gatsby-plugin-theme-ui": "^0.3.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-video": "^1.2.5",
     "netlify-cms-app": "^2.11.23",
     "netlify-cms-proxy-server": "^1.1.4",

@@ -2,7 +2,7 @@
 title: Explore Samsung Collection
 author: Christopher Alan
 date: 2015-05-30
-hero: ./images/hero.jpg
+hero: ./images/samsung-hero-new.jpg
 excerpt: Revamped the Samsung brand page on Radioshack.com with easy to shop categories and big asymmetrical grids for visual interest.
 ---
 

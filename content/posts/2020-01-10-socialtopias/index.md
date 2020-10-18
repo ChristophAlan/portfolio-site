@@ -2,7 +2,7 @@
 title: Socialtopias
 author: Christopher Alan
 date: 2016-05-30
-hero: ./images/hero.jpg
+hero: ./images/socialtopias-hero.jpg
 excerpt: A set of apps to plan your night out. Socialtopians for the users to plan and create their night out. Destinations for the businesses to promote themselves within the Socialtopians app.
 ---
 

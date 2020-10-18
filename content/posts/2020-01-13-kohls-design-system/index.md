@@ -1,4 +1,3 @@
----
 title: Kohl's Design System
 author: Christopher Alan
 date: 2020-09-24
